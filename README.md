@@ -14,7 +14,8 @@ This project is about managing events inside a campus. The main idea is that stu
 - **Frontend:** Django Templates (HTML, CSS, JS, Bootstrap) 
 - **Backend:** Django (Python) 
 - **Database:** SQLite (default Django DB) 
-- **Authentication:** Django’s built-in authentication system (for login, registration, and user roles)  
+- **Authentication:** Django’s built-in authentication system (for login, registration, and user roles)
+- Operating System: Ubuntu OS 
 
 ## How the system works 
 1. A student or admin logs in.  
