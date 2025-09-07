@@ -11,10 +11,10 @@ This project is about managing events inside a campus. The main idea is that stu
 - Role-based login (student and admin).  
 
 ## Tech Stack Used
-- **Frontend:** React (with basic components for pages and forms)  
-- **Backend:** Node.js with Express  
-- **Database:** MongoDB  
-- **Authentication:** JWT tokens for login sessions  
+- **Frontend:** Django Templates (HTML, CSS, JS, Bootstrap) 
+- **Backend:** Django (Python) 
+- **Database:** SQLite (default Django DB) 
+- **Authentication:** Django’s built-in authentication system (for login, registration, and user roles)  
 
 ## How the system works 
 1. A student or admin logs in.  
